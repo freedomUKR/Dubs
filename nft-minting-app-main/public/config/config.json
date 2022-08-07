@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7715fCA82549a202C5252ef6994ce4e6AE40d3a0",
+  "SCAN_LINK": "https://etherscan.io/address/0x7715fca82549a202c5252ef6994ce4e6ae40d3a0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Dubs",
+  "SYMBOL": "DUB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 185000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dubs-v2",
+  "SHOW_BACKGROUND": true
+}
